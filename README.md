@@ -17,4 +17,4 @@ This is my submission for the test
 * From the terminal of the repository, run `npx cypress run --browser firefox` to run headlessly with a specific browser
 
 ## Contributor
-[Grace Uko](https://www.linkedin.com/in/mfonma-uko-400398188/)
+[Chukwudi Okpe](https://www.linkedin.com/in/chukwudi-okpe-42b678171/)
